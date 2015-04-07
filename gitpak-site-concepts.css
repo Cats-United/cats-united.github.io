@@ -1,5 +1,5 @@
 .dialog {
-  border-radius: 4px;
+  border-radius: 8px;
   background-color: #CCC;
   margin: auto;
   text-align: center;
@@ -13,6 +13,7 @@
 
 body  {
   font-family: Tahoma;
+  background-color: #EEE;
 }
 
 h2  {
