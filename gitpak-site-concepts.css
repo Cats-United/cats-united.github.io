@@ -2,6 +2,8 @@
   border-radius: 4px;
   background-color: #CCC;
   margin: auto;
+  text-align: center;
+  padding: 10px;
 }
 
 #container  {
@@ -10,5 +12,9 @@
 }
 
 body  {
-  font-family: Sans Serif;
+  font-family: Tahoma;
+}
+
+h2  {
+text-align: center;
 }
