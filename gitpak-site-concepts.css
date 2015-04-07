@@ -1,0 +1,14 @@
+#dialog {
+  border-radius: 4px;
+  background-color: #CCC;
+  margin: auto;
+}
+
+#container  {
+  width: 920px;
+  margin: auto;
+}
+
+body  {
+  font-family: Sans Serif;
+}
